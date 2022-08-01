@@ -2,7 +2,8 @@ import { NavLink } from 'react-router-dom';
 import logoDesign from "../../assets/HRnet_logo-design.jpg"
 import logoBrand from '../../assets/HRnet_logo-brand.jpg';
 import icoList from '../../assets/ico-list.png';
-import icoAdd from '../../assets/ico-user-add.jpg';
+import icoAdd from '../../assets/User-add-05.png';
+import nav from './navbar.css'
 
 
 const Navbar = () => {
