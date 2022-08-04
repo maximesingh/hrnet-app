@@ -7,7 +7,7 @@
   --primary: #999379;
   --secondary: #9aa674;
   --tertiary-constrast: #bec7a3;
-  --tertiary: #c1d488;
+  --tertiary: #9db062;
   --disabled: #ccde8c;
   --light: #fff;
   --bg: #bbbbbb;
@@ -55,7 +55,6 @@ h3 {
   border-radius: 0.25rem;
   color: var(--dark);
 }
-
 #page-title {
   color: var(--dark);
   width: fit-content;

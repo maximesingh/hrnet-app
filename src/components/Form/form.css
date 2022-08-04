@@ -138,15 +138,21 @@ select {
   color: var(--tertiary);
   cursor: not-allowed;
 }
-
 /* MODAL */
 .modal-close{
   width: 30px;
   margin-left: 350px;
 }
-
 .modal-text{
   text-align: center;
+  font-size: 30px;
+}
+
+
+.span-icon{
+  display: flex;
+  justify-content: center;
+  align-items: center;
   font-size: 30px;
 }
 
