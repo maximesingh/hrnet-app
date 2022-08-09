@@ -1,4 +1,4 @@
-# Dropdown-gs component
+# Dropdown  component
 
 A library of React components created using create-react-app.
 
