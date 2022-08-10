@@ -27,7 +27,7 @@ Ancienne application qui utilise jQuery côté front end ce qui entraîne des bu
 - Un rapport de perfomance LightHouse de HRnet fonctionnant avant et après conversion de la biblothèque 
 
 # Plugin publié sur npm
-https://www.npmjs.com/package/wealth-health-app?activeTab=versions
+https://www.npmjs.com/package/wealth-health-app
 
 
 
