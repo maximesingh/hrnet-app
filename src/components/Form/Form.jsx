@@ -14,6 +14,7 @@ import Modal from "react-modal";
  */
 export default function Form() {
     const initialState = {
+        id:"",
         firstName: "",
         lastName: "",
         dateOfBirth: "",
